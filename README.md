@@ -1,6 +1,6 @@
 # Teste de Módulos para Arduino 
 Este repositório consiste em um acumulado de testes com os mais diferentes módulos para arduino, onde estão
-disponibilizado os _sketchs_ e as _bibliotecas_ utilizados em todos os testes.  
+disponibilizados os _sketchs_ e as _bibliotecas_ utilizados em todos os testes.  
   
 
 ## Microcontroladores suportados  
